@@ -2,8 +2,8 @@ public static void main()
 
 {	
 
- 	int i=780;
-	a=60;
+ 	int i=890;
+	a=6850;
 
 }
 
