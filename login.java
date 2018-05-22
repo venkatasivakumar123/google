@@ -2,7 +2,7 @@ public static void main()
 
 {	
 
- 	int i=80;
+ 	int i=780;
 	a=60;
 
 }
