@@ -1,6 +1,9 @@
 public static void main()
-{
-	int i=70;
 
+{	
+
+ 	int i=85890;
+	a=6850;
+	b=3555;
 }
 
